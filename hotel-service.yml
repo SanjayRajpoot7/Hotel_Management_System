@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+hotel:
+  max-rooms: 100
+  default-checkin: "14:00"
